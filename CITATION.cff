@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the following paper."
+title: "The Role of Entanglement in Quantum Reservoir Computing with Coupled Kerr Nonlinear Oscillators"
+authors:
+  - family-names: "Karimi"
+    given-names: "Ali"
+  - family-names: "Hadi"
+    given-names: "Zadeh-Haghighi"
+  - family-names: "Kora"
+    given-names: "Youssef"
+  - family-names: "Simon"
+    given-names: "Christoph"
+date-released: 2025-08-15
+version: "1.0.0"
+doi: "10.48550/arXiv.2508.11175"
+url: "https://github.com/alikauc/Kerr_Coupled_QRC-Paper-"
+preferred-citation:
+  type: article
+  title: "The Role of Entanglement in Quantum Reservoir Computing with Coupled Kerr Nonlinear Oscillators"
+  authors:
+  - family-names: "Karimi"
+    given-names: "Ali"
+  - family-names: "Hadi"
+    given-names: "Zadeh-Haghighi"
+  - family-names: "Kora"
+    given-names: "Youssef"
+  - family-names: "Simon"
+    given-names: "Christoph"
+  year: 2025
+  journal: "arXiv preprint"
+  doi: "10.48550/arXiv.2508.11175"
