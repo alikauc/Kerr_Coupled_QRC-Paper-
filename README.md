@@ -36,4 +36,9 @@ Pkg.add([
 
 To reproduce the key results from the paper:  
 	-	Fig. 2 and data generation for the whole paper: [Simulation.ipynb](https://github.com/alikauc/Kerr_Coupled_QRC-Paper-/blob/main/Simulation.ipynb)  
-	-	Fig. 3-11: Use data from [saved_data.zip](https://github.com/alikauc/Kerr_Coupled_QRC-Paper-/blob/main/saved_data.zip) and run notebook [figs3to11.ipynb](https://github.com/alikauc/Kerr_Coupled_QRC-Paper-/blob/main/figs3to11.ipynb).
+	-	Fig. 3-11: Use data from [saved_data.zip](https://github.com/alikauc/Kerr_Coupled_QRC-Paper-/blob/main/saved_data.zip) and run notebook [figs3to11.ipynb](https://github.com/alikauc/Kerr_Coupled_QRC-Paper-/blob/main/figs3to11.ipynb).  
+ 
+---
+## Citation
+You can cite this code by using this link.
+[![DOI](https://img.shields.io/badge/DOI:-10.48550/arXiv.2508.11175-green)](https://doi.org/10.48550/arXiv.2508.11175)
