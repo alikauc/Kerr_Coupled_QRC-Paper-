@@ -1,7 +1,7 @@
 # The Role of Entanglement in Quantum Reservoir Computing with Coupled Kerr Nonlinear Oscillators
 
 This repository contains the Julia code and scripts used in the paper:  
-**"The Role of Entanglement3 in Quantum Reservoir Computing with Coupled Kerr Nonlinear Oscillators"** (arXiv:2508.11175).
+**"The Role of Entanglement in Quantum Reservoir Computing with Coupled Kerr Nonlinear Oscillators"** (arXiv:2508.11175).
 
 ---
 
