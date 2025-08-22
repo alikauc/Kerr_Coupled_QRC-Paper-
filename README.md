@@ -32,7 +32,7 @@ Pkg.add([
 ])
 ```
 ---
-## 📊 Reproducibility
+## 📊 Instructions
 
 To reproduce the key results from the paper:  
 	-	Fig. 2 and data generation for the whole paper: [Simulation.ipynb](https://github.com/alikauc/Kerr_Coupled_QRC-Paper-/blob/main/Simulation.ipynb)  
